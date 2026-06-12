@@ -7,8 +7,7 @@ function App() {
 
   return (
     <>
-     <UserReg></UserReg>
-
+     <Bmi></Bmi>
     </>
   )
 }
